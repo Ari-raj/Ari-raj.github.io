@@ -1,0 +1,6 @@
+{
+  "name": "Ariba Rajbhara - Linux GUI Portfolio",
+  "description": "An interactive portfolio for Ariba Rajbhara, designed to look and feel like a modern Linux desktop environment. Features a search-centric UI with dedicated desktop icons for projects, certificates, skills, education, and social media. Includes a 'Contact Me' form and a full CRUD admin panel.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
