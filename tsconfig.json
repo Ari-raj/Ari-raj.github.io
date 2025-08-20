@@ -21,6 +21,9 @@
       ]
     },
     "allowImportingTsExtensions": true,
-    "noEmit": true
-  }
+    "noEmit": false,          // Changed to false to emit JS output if needed
+    "outDir": "./dist"        // Added to specify output directory for compiled files
+  },
+  "include": ["src"],         // Ensures only your source files are compiled
+  "exclude": ["node_modules", "dist"] // Prevents unnecessary files from being processed
 }
